@@ -22,7 +22,7 @@ title: Carlos Flores Luna
 email: carlosunam.flores@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Cientifico de datos de la Unam
-baseurl: "/Carlos-Flores" # the subpath of your site, e.g. /blog
+baseurl: "/0_myblog" # the subpath of your site, e.g. /blog
 url: "https://corderodedios182.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: corderodedios182
 github_username:  corderodedios182
