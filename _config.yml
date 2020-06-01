@@ -21,14 +21,15 @@
 title: Carlos Flores Luna
 email: carlosunam.flores@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Cientifico de datos de la Unam
+  Blog sobre Ciencia de Datos
 baseurl: "/0_myblog" # the subpath of your site, e.g. /blog
 url: "https://corderodedios182.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: corderodedios182
 github_username:  corderodedios182
 
 # Build settings
-theme: minima
+# Removed minima theme as it is now a regular theme
+#theme: minima
 plugins:
   - jekyll-feed
 
